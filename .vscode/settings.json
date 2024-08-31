@@ -1,0 +1,9 @@
+
+{
+    "python.pythonPath": "path/to/your/virtualenv/bin/python",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.flake8Enabled": true,
+    "python.formatting.provider": "black",
+    "workbench.colorCustomizations": {}
+}

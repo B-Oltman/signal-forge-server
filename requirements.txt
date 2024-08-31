@@ -1,0 +1,6 @@
+Flask
+pymongo
+requests
+pydantic
+Werkzeug
+flask_cors
